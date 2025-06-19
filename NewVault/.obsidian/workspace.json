@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "035930f50534d368",
+    "type": "split",
+    "children": [
+      {
+        "id": "df891f4a240e4433",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a7cda7f35fc46798",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/Daily template.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Daily template"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8e84a42c9097cc0e",
+    "type": "split",
+    "children": [
+      {
+        "id": "19aea9ee0eaaa526",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e1816ea0565ded6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d8748a04380b67f1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "af29b5e23edc0cc0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0b2905e96e0d7595",
+    "type": "split",
+    "children": [
+      {
+        "id": "984467cf76cf8c4a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "63ebf6e6dbe47cbe",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Help.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Help"
+            }
+          },
+          {
+            "id": "8ecf51b35ca47449",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Help.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Help"
+            }
+          },
+          {
+            "id": "c220456cdaca6f37",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "92a6113779699d3a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Help.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Help"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "a7cda7f35fc46798",
+  "lastOpenFiles": [
+    "meetings.md",
+    "templates/Daily template.md",
+    "Untitled.md",
+    "templates/Meeting template.md",
+    "templates/System prompts.md",
+    "meetings/asdf.md",
+    "meetings/This event is a test.md",
+    "meetings/hqergt.md",
+    "meetings/bzxcv.md",
+    "daily/20th Jun, 2025.md",
+    "meetings/hqergt 1.md",
+    "meetings/bzxcv 1.md",
+    "meetings/asdf 1.md",
+    "meetings/This event is a test 1.md",
+    "meetings/This event is a test 5.md",
+    "meetings/This event is a test 4.md",
+    "meetings/This event is a test 3.md",
+    "meetings/This event is a test 2.md",
+    "meetings/This 1.md",
+    "meetings/This.md",
+    "meetings/[Event 1.md",
+    "meetings/[Event 2.md",
+    "meetings/[Event.md",
+    "meetings/[Event 3.md",
+    "meetings",
+    "daily/Untitled.md",
+    "Help.md",
+    "daily",
+    "templates"
+  ]
+}
